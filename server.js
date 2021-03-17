@@ -9,20 +9,21 @@ const app = express();
 const PORT = process.env.PORT || 8080;
 
 
- // express app data parsing
-app.use(express.urlencoded({ extended: false }));
 
+// MIDDLEWARE
+ // express app data parsing
+app.use(express.urlencoded({ extended: true}));
 // parse application/express
 app.use(express.json());
-
 //like Wilson said:
  // we need: express.static('public'); to read from the folder public
 app.use(express.static("public"));
 
 
 // we require the functions on the 2 routes
-require('./db/routes/api-routes.js')(app);
-require('./db/routes/html-routes.js')(app);
+// not yet made in index.js
+// require('./routes/api-route')(app);
+// require('./routes/html-route')(app);
 
 
 // server starts to listen
