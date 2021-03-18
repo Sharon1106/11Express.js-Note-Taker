@@ -11,18 +11,16 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
   ## Table of Contents
 
-  * [Installation](#Installation)
   * [Usage](#Usage)
   * [Built with](#Built-with)
   * [License](#License)
   * [Contribution](#Contribution)
-  * [Tests](#Tests)
   * [Questions](#Questions)
+  * [Issues](#Issues)
   
   ## Usage 
-  Watch this video!
-  https://drive.google.com/file/d/17yQDT-8Dp32MR_QVlkkC5WbKzw5FgfTq/view
-  ![NOde](https://user-images.githubusercontent.com/30086519/110589488-5683ff00-812b-11eb-998e-2f429272d967.png)
+  ![note1](https://user-images.githubusercontent.com/30086519/111587085-945dd480-8776-11eb-88ea-d0f1b93f7865.png)
+  ![note2](https://user-images.githubusercontent.com/30086519/111587103-99bb1f00-8776-11eb-832d-87aacaed2c51.png)
   
    ## Contribution
    Allowed
@@ -36,4 +34,4 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
   ### Questions?
   You can visit: [GitHub](https://github.com/Sharon1106)  
   For any additional questions you can contact Sharon Martinez at <email>(martinezsharonr@gmail.com)<email>
-
+  
