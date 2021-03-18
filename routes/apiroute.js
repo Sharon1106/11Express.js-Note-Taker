@@ -1,6 +1,6 @@
 // we need fs to read and write files
 const fs = require('fs');
-const dataBase =  JSON.parse(fs.readFileSync(__dirname + '/db/db.json', 'utf8'));
+// const dataBase =  JSON.parse(fs.readFileSync(__dirname + '/db/db.json', 'utf8'));
 
 
 module.exports = (app) => {

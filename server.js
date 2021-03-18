@@ -2,9 +2,8 @@
 const express = require('express');
 const fs = require('fs');
 
-// express app is
+// express app is //listening on port 8080
 const app = express();
-//listening on port 8080
 const PORT = process.env.PORT || 8080;
 
 // MIDDLEWARE
@@ -19,8 +18,8 @@ app.use(express.static("public"));
 
 // we require the functions on the 2 routes
 // not yet made in index.js
-require('/routes/api-route.js')(app);
-require('/routes/html-route.js')(app);
+require('./routes/apiroute')(app);
+require('./routes/htmlroute')(app);
 
 // server starts to listen
 app.listen(PORT, function() {
