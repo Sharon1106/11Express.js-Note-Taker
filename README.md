@@ -32,5 +32,5 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
   ### Questions?
   You can visit: [GitHub](https://github.com/Sharon1106)  
-  For any additional questions you can contact Sharon Martinez at <email>(martinezsharonr@gmail.com)<email>
+  For any additional questions you can contact Sharon Martinez at [email](martinezsharonr@gmail.com)
   
