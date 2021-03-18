@@ -1,33 +1,40 @@
 // we need fs to read and write files
+const path = require('path');
+const dataBase = require('../db/db.json');
 const fs = require('fs');
-// const dataBase =  JSON.parse(fs.readFileSync(__dirname + '/db/db.json', 'utf8'));
+//unique id's
+const uuid = require('uuid');
 
 
 module.exports = (app) => {
   //get request from db file
-  app.get('/api/notes', (req, res) => res.json(dataBase));
-  app.get('/api/:id', (req, res) => res.json(dataBase[Number(req.params.id)]));
+  app.get('/api/notes', (req, res) => {
+      //send file 
+      res.sendFile(path.join(__dirname, '../db/db.json'));
+    });
 
+    //post request from db
   app.post('/api/notes', (req, res) => {
-    //local variables
-    let newNote = req.body;
-    // id is the length of array returned as a string
-    let newId = (data.length).toString();
-  
-    newNote.id = newId;
-  
+    //local variables 
+    const dataBase = JSON.parse(fs.readFileSync('../db/db.json'));
+    const newNote = req.body;
+
     dataBase.push(newNote);
-  
-    // writefilesync takes in 2 parameters, 3rd one is optional but alreadt defined
-    fs.writeFileSync('./db/db.json', JSON.stringify(dataBase), function(err){ 
-      throw (err);
-    })
+    newNote.id = uuid.v4();
+    
+    fs.writeFileSync('../db/db.json', JSON.stringify(dataBase));
     res.json(dataBase);
-  
   });
+   
+  app.delete('api/notes/id:', (req,res) => {
+    const dataBase = JSON.parse(fs.readFileSync('../db/db.json'));
+    const deleted = dataBase.filter((delNote) => delNote.id !== req.params.id);
 
+    fs.writeFileSync('../db/db.json', JSON.stringify(deleted));
 
-}
+    res.json(deleted);
+  })  
+};
 
 
 
