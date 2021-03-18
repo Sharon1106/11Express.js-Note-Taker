@@ -17,7 +17,6 @@ app.use(express.static("public"));
 
 
 // we require the functions on the 2 routes
-// not yet made in index.js
 require('./routes/apiroute')(app);
 require('./routes/htmlroute')(app);
 
