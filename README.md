@@ -19,7 +19,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
   
   ## Usage 
 ![note taker1](https://user-images.githubusercontent.com/30086519/111732460-63d77280-882a-11eb-9571-c3ea9f1b55db.png)
-![note2](https://user-images.githubusercontent.com/30086519/111732468-68039000-882a-11eb-84e0-db785e47392d.png)
+![notetaker2](https://user-images.githubusercontent.com/30086519/111732876-67b7c480-882b-11eb-8521-1349bd6b6873.png)
   
    ## Contribution
    Allowed
