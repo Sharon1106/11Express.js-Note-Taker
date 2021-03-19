@@ -1,6 +1,6 @@
 // dependencies
 const express = require('express');
-const path = require('path');
+
 // express app is //listening on port 8080
 const app = express();
 const PORT = process.env.PORT || 8080;
