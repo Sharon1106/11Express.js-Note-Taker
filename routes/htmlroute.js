@@ -1,4 +1,3 @@
-// path allows us to access and interact with the file system
 const path = require('path');
 
 module.exports = app => {
