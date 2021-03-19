@@ -1,21 +1,22 @@
 # 11Express.js: Note Taker
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ## User Story
+## Description
+This is a easy to use note application that allows you to post, save and delete your notes.
+
+  ## Table of Contents
+  * [User Story](#User-Story)
+  * [Usage](#Usage)
+  * [Built with](#Built-with)
+  * [License](#License)
+  
+  ### User Story
 ```
 AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
-This is a easy to use note application that allows you to post, save and delete your notes.
-  ## Table of Contents
 
-  * [Usage](#Usage)
-  * [Built with](#Built-with)
-  * [License](#License)
-  * [Questions](#Questions)
-  * [Issues](#Issues)
-  
   ## Usage 
   [tutorial](https://drive.google.com/file/d/1krSkh-AkSbdVm3aFXCsXLoZb1S4ptT7o/view)
 ![note taker1](https://user-images.githubusercontent.com/30086519/111732460-63d77280-882a-11eb-9571-c3ea9f1b55db.png)
@@ -26,7 +27,3 @@ This is a easy to use note application that allows you to post, save and delete 
 
   ## License 
   This project is licensed under: MIT | https://opensource.org/licenses/MIT
-
-  ### Questions?
-  You can visit: [GitHub](https://github.com/Sharon1106)  
-  For any additional questions you can contact Sharon Martinez at [email](martinezsharonr@gmail.com)
