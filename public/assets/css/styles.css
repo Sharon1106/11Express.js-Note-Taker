@@ -16,7 +16,8 @@ html, body {
 }
 
 .note-textarea, .note-title {
-  color: #000000;
+  background-color: #525564;
+  color:  #FFFFFF;
   width: 100%;
   outline: none;
   border: none;
@@ -29,13 +30,14 @@ html, body {
 }
 
 .note-title {
+  color: #FFFFFF;
   height: 50px;
   margin-top: 13px;
   font-size: 3rem;
 }
 
 .note-title:read-only, .note-textarea:read-only {
-  color: #757575;
+  color:  #FEF6EB;
 }
 
 .list-container .card {
@@ -58,11 +60,13 @@ html, body {
 }
 
 .list-container i {
+  background-color:  #FEF6EB;
   font-size: 1.1rem;
   cursor: pointer;
 }
 
 .list-container .list-group-item {
+  background-color:  #FEF6EB;
   border-left: none;
   border-right: none;
   padding: 20px;
