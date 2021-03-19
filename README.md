@@ -18,8 +18,8 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
   * [Issues](#Issues)
   
   ## Usage 
-  ![note1](https://user-images.githubusercontent.com/30086519/111587085-945dd480-8776-11eb-88ea-d0f1b93f7865.png)
-  ![note2](https://user-images.githubusercontent.com/30086519/111587103-99bb1f00-8776-11eb-832d-87aacaed2c51.png)
+![note taker1](https://user-images.githubusercontent.com/30086519/111732460-63d77280-882a-11eb-9571-c3ea9f1b55db.png)
+![note2](https://user-images.githubusercontent.com/30086519/111732468-68039000-882a-11eb-84e0-db785e47392d.png)
   
    ## Contribution
    Allowed
