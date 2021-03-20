@@ -2,7 +2,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This is a easy to use note application that allows you to post, save and delete your notes.
+This is a easy to use note taker application. With this app you have the ability to post, save and delete your notes. The app comes in a darker theme, so it's easy on the eyes. 
 
   ## Table of Contents
   * [User Story](#User-Story)
