@@ -18,10 +18,11 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
   ## Usage 
-  [tutorial](https://drive.google.com/file/d/1krSkh-AkSbdVm3aFXCsXLoZb1S4ptT7o/view)
+  [Video](https://drive.google.com/file/d/1krSkh-AkSbdVm3aFXCsXLoZb1S4ptT7o/view)
+  [Check it out!](https://stark-everglades-58372.herokuapp.com/)
 ![note taker1](https://user-images.githubusercontent.com/30086519/111732460-63d77280-882a-11eb-9571-c3ea9f1b55db.png)
 ![notetaker2](https://user-images.githubusercontent.com/30086519/111732876-67b7c480-882b-11eb-8521-1349bd6b6873.png)
-[Check it out!](https://stark-everglades-58372.herokuapp.com/)
+
   
   ## Built with
   | html | css | javascript | bootstrap | node.js | fs | uuid | express.js |
