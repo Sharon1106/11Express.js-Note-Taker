@@ -1,4 +1,4 @@
-# 11Express: Note Taker
+# Note Taker
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
@@ -25,7 +25,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
   
   ## Built with
-  | html | css | javascript | bootstrap | node.js | fs | uuid | express.js |
+  Html | css | javascript | bootstrap | node.js | fs | uuid | express.js
 
   ## License 
   This project is licensed under: MIT | https://opensource.org/licenses/MIT
