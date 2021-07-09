@@ -2,7 +2,8 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This is a easy to use note taker application. With this app you have the ability to post, save and delete your notes. The app comes in a darker theme, so that it's easy on the eyes. 
+ A full stack, easy to use note application. Easily saves, deletes and retrieve notes.
+Uses Express.js as back-end, saves and retrieves note data from a JSON document database.
 
   ## Table of Contents
   * [User Story](#User-Story)
