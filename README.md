@@ -1,7 +1,7 @@
 # Express Note Taker   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
- A full stack, easy to use note application. Easily saves, deletes and retrieve notes.
+ A full stack, easy to use note app. CRUD. Easily saves, deletes and retrieve notes.
 Uses Express.js as back-end, saves and retrieves note data from a JSON document database.
 
   ## Table of Contents
