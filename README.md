@@ -1,4 +1,4 @@
-# Express Note Taker   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Express Notes  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
  A full stack, easy to use note app. CRUD. Easily saves, deletes and retrieve notes.
